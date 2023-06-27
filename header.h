@@ -37,6 +37,7 @@ char *custom_int_to_string(int num);
 int custom_atoi(char *str);
 char *custom_ignore_first_c_strcat(char *dest, const char *src);
 int my_setenv(list_t **env, const char *name, const char *dir);
+char *custom_ignore_first_c_strcat(char *dest, const char *src);
 
 	/* linked lists functions */
 
@@ -56,6 +57,7 @@ char *get_env(char *str, list_t *env);
 int find_env(list_t *env, const char *str);
 int custom_setenv(list_t **env, char **str);
 int custom_unsetenv(list_t **env, char **str);
+int custom_atoi(char *str);
 
     /* shell prompt function */
 
