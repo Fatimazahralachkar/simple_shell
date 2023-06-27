@@ -77,22 +77,16 @@ char *custom_int_to_string(int num)
 int custom_atoi(char *str)
 {
 	int i = 0;
-	int num = 0;
+	unsigned int num = 0;
 
 	while (str[i] != '\0')
 	{
 		if (str[i] >= '0' && str[i] <= '9')
-		{
 			num = num * 10 + (str[i] - '0');
-		}
-		else
-		{
+		if (str[i] > '9' || str[i] < '0')
 			return (-1);
-		}
-
 		i++;
 	}
-
 	return (num);
 }
 
