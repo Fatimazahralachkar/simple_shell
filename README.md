@@ -1,7 +1,29 @@
 
-# Simple_shell Project
+**# Simple_shell Project**
 
 The main goal of this project is to Write a simple UNIX command interpreter.
+================
+
+-   Simple_shell By Julien Barbier
+-   Contributors: Fatimazahralachkar And Imane Elaceri 
+-   ©Symbols copyright by: [ENAMIIMANE](https://github.com/Imane47250) , [LACHKAR](https://github.com/Fatimazahralachkar)
+-   Porject was studied before working on it through alxafrica [link project](https://intranet.alxswe.com/projects/235)
+-   For More Details :
+```
+fatima6lachkar@gmail.com
+elaceriimane@gmail.com
+``` 
+-   Our Instagram account [SAWSAN](https://www.instagram.com/imane_elaceri/) , [VANEESA](https://www.instagram.com/fatimaezzahra_lachkar/)
+
+Background Context 
+------------------
+Animation published by Enamiimane
+
+
+![](https://media3.giphy.com/media/1kSHxVir3LQ229zXQu/giphy.gif?cid=6c09b952bl7gvjdpzd8abem022merpy87jaxmo5hfosy43jp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+
+^ “picture”, by [𝓢𝓪𝔀𝓼𝓪𝓷](https://www.instagram.com/imane_elaceri/")
+================
 
 ## Ressources
 
@@ -74,26 +96,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * read (man 2 read)
 * readdir (man 3 readdir)
 * signal (man 2 signal)
-* stat (__xstat) (man 2 stat)
-* lstat (__lxstat) (man 2 lstat)
-* fstat (__fxstat) (man 2 fstat)
-* strtok (man 3 strtok)
-* wait (man 2 wait)
-* waitpid (man 2 waitpid)
-* wait3 (man 2 wait3)
-* wait4 (man 2 wait4)
-* write (man 2 write)
-
-## Compilation:
-
-Your shell will be compiled this way:
-
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
-
-## Collaborators:
-
-This project was made by Imane Elaceri and Fatima Zahra Lachkar.
-
-
-
 
