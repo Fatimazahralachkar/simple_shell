@@ -1,10 +1,9 @@
-
 ## Simple_shell Project
 
 **The main goal of this project is to Write a simple UNIX command interpreter.**
 ================
 
--   Simple_shell By Julien Barbier
+-   Project simple_shell By Julien Barbier
 -   Contributors: Fatimazahralachkar And Imane Elaceri 
 -   ©Symbols copyright by: [ENAMIIMANE](https://github.com/Imane47250) , [LACHKAR](https://github.com/Fatimazahralachkar)
 -   Porject was studied before working on it through alxafrica [link project](https://intranet.alxswe.com/projects/235)
@@ -21,8 +20,6 @@ Animation published by Enamiimane
 
 
 ![](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
-
-================
 
 ## Ressources
 
