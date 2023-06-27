@@ -128,14 +128,15 @@ int delete_node_at_index(list_t **head, int index)
  */
 void free_linked_list(list_t *list)
 {
-	list_t *current;
+	list_t *current, *temp;
 
+	current = list;
 	while (current != NULL)
 	{
-		current = list;
-		list = list->next;
-		free(current->var);
-		free(current);
+		temp = current;
+		current = current->next;
+		free(temp->var);
+		free(temp);
 	}
 }
 
